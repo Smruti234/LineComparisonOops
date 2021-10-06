@@ -1,5 +1,5 @@
 package LineComparison;
 
 public class Point {
-	double x,y;
+	double x, y;
 }
